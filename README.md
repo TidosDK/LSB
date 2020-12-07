@@ -11,7 +11,7 @@ It will print how to use it, but here is also the correct way to use it.
 To use it with 1 color pixel (most secure, but can't hold a large image):
 ```
 python hide_image_in_image.py encode1 public.jpg private.jpg
-python hide_image_in_image.py decode public.png
+python hide_image_in_image.py decode1 public.png
 ```
 
 To use it with 2 color pixels (less secure, but can hold larger image):
