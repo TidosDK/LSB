@@ -27,4 +27,4 @@ There are also images in the repository for testing the program. These images ha
 Note! The images are not for any commercial use and I don't have any rights over them, they are only for testing.
 
 &nbsp;
-## Explanation (Comming soon...)
+## How it works (Comming soon...)
